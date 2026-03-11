@@ -83,4 +83,5 @@ GEMINI_API_KEY=AIzaSyBx8qcpQTBNphYZAjlP-Trm9foteWrhvWU
 
 ## GitHub 專案連結
 
-請填入小組各組員 GitHub repository 網址。
+楊姍頤
+https://github.com/Shanyii/chatbot.git
